@@ -1,2 +1,2 @@
-# rocket-engine
-200kN thrust liquid propellent rocket engine 
+# 200kN thrust staged combustion cycle liquid propellent rocket engine
+
